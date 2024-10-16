@@ -1,0 +1,11 @@
+build*/
+__pycache__
+docs/_build/
+
+.vscode/
+.idea/
+.settings/
+.project
+.classpath
+.venv
+.DS_Store
